@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 const customResourceResponse = {};
 
 customResourceResponse.success = { statusCode: 200, message: 'Request has been processed successfully.' };

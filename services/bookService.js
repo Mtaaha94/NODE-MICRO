@@ -1,3 +1,7 @@
+/* eslint-disable linebreak-style */
+/* eslint-disable no-shadow */
+/* eslint-disable no-unused-vars */
+/* eslint-disable linebreak-style */
 const uuid = require('uuid');
 const customResourceResponse = require('../utils/constants');
 
